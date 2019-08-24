@@ -1,0 +1,4 @@
+list Latihan Untuk Lomba
+- Git dan GitHub
+- Konsep MVC
+- Framework Laravel
