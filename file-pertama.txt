@@ -1,4 +1,5 @@
 list Latihan Untuk Lomba
 - Git dan GitHub
+- OOP pada PHP
 - Konsep MVC
 - Framework Laravel
